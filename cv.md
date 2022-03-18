@@ -14,3 +14,17 @@ I have no experience in web development yet. I love to learn something new and l
 2. Git
 3. CSS
 4. JS Basic
+
+## Code example
+```
+function updateLight(current) {  
+    switch (current) {
+        case 'green':
+            return 'yellow';
+        case 'yellow':
+            return 'red';
+        case 'red':
+            return 'green';
+    }
+}
+```
