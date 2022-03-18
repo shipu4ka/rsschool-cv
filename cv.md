@@ -28,3 +28,13 @@ function updateLight(current) {
     }
 }
 ```
+
+## Experience
+I have experience in sales.
+The RSSchool course is my first web development course.
+
+## Education
+__University:__ Nizhny Novgorod State Agricultural Academy
+
+## English
+A1
