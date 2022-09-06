@@ -8,6 +8,7 @@
 
 ## About me
 I have no experience in web development yet. I love to learn something new and learn it quickly. I'm not afraid of difficulties.
+
 ## Skills
 1. HTML
 2. Git
@@ -27,3 +28,13 @@ function updateLight(current) {
     }
 }
 ```
+
+## Experience
+I have experience in sales.
+The RSSchool course is my first web development course.
+
+## Education
+__University:__ Nizhny Novgorod State Agricultural Academy
+
+## English
+A1
